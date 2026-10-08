@@ -1,0 +1,16 @@
+Student_ID,Gender,Attendance,Study_Hours,Assignment_Marks,Final_Marks,CGPA
+S001,Female,92,5,88,90,9.0
+S002,Male,85,4,80,82,8.2
+S003,Female,78,3,72,75,7.5
+S004,Male,65,2,60,62,6.2
+S005,Female,95,6,92,94,9.4
+S006,Male,72,3,68,70,7.0
+S007,Female,88,5,85,87,8.7
+S008,Male,55,1,50,52,5.2
+S009,Female,90,4,89,91,9.1
+S010,Male,80,3,75,78,7.8
+S011,Female,70,2,65,68,6.8
+S012,Male,96,6,94,95,9.5
+S013,Female,83,4,78,81,8.1
+S014,Male,60,2,55,58,5.8
+S015,Female,91,5,87,89,8.9
